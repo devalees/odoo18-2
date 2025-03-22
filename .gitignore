@@ -2,7 +2,7 @@
 _build/
 
 # dotfiles
-.*
+
 !.gitignore
 !.github
 !.mailmap
@@ -12,7 +12,7 @@ __pycache__/
 # setup.py egg_info
 *.egg-info
 # emacs backup files
-*~
+
 # hg stuff
 *.orig
 status
